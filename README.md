@@ -18,6 +18,7 @@ Pandas
 Matplotlib
 File Handling
 Functional Programming
+
 📊 Key Features
 ✔ Data Cleaning and Missing Value Handling
 ✔ Feature Engineering (FamilySize, FarePerPerson, IsChild)
@@ -26,11 +27,13 @@ Functional Programming
 ✔ Statistical Analysis (Mean, Median, Mode)
 ✔ Functional Programming Implementation
 ✔ Automated Report Generation
+
 📈 Results & Insights
 Women and children had a higher survival rate
 First-class passengers had better survival chances
 Fare and family size influenced survival probability
 Statistical analysis validated dataset patterns
+
 📊 Graphical Analysis
 Survival Count Distribution
 Survival Rate by Gender
